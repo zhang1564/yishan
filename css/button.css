@@ -1,0 +1,12 @@
+@charset "utf-8";
+/*按钮样式*/
+/*button*/
+.bt{ height: 3rem; line-height: 3rem;background: #ff4654;border: 1px solid #ff4654;border-radius: 4px; color: #fff; font-size: 1.4rem; display: inline-block; text-align: center;-webkit-tap-highlight-color: transparent;box-shadow: 0 0px 10px 0 rgba(255,74,87,0.20);-webkit-box-shadow: 0 0px 10px 0 rgba(255,74,87,0.20);}
+.bt:active{background-color: #f73f4d;}
+.bt.disabled{background: #DDDDDD;border: 1px solid #DDDDDD; color: #B1B1B1;pointer-events: none;}
+.bt.bt-disabled{cursor: default;}
+.bt.bt-disabled:active,.bt.disabled:active{pointer-events: none;}
+.bt.btn-white{background-color: #fff;border: 1px solid #a0a0a0; color: #6d6d6d;box-shadow:none;-webkit-box-shadow:none;}
+.bt.btn-white:active,.bt.btn-black:active,.bt.btn-red:active{background-color: #e5e5e5;}
+.bt.btn-black{background-color: #fff;border: 1px solid #4A4A4A; color: #333333;}
+.bt.btn-red{background-color: #fff;border: 1px solid #D60E07; color: #D60E07;}

@@ -1,0 +1,14 @@
+@charset "utf-8";
+/*模拟radio checkbox组件*/
+/*radio*/
+.m-select{display: inline-block;color: #1f2324;vertical-align: middle;line-height: 22px;min-width: 20px;min-height: 22px;}
+.m-select .m-select-item,.m-select .m-selected-item{display: inline-block;cursor: pointer;vertical-align: middle; min-width: 12px; min-height: 12px;padding-left: 16px; margin-right: 15px; background: url(../img/mselect/radio1.png) left center no-repeat;}
+.m-select .m-select-item:hover{background-image: url(../img/mselect/radio2.png);color:#0080FE;}
+.m-select .m-selected-item{background-image: url(../img/mselect/radio3.png);color:#0080FE;}
+.m-select-disabled .m-select-item,.m-select-disabled .m-select-item:hover{background-image: url(../img/mselect/radio-dis.png);color: #1f2324;cursor: default;}
+/*checkbox*/
+.m-select-ck{display: inline-block;vertical-align: middle;}
+.m-select-ck .m-select-item,.m-select-ck .m-selected-item{display: inline-block;vertical-align: middle; cursor: pointer;min-width: 12px; min-height: 12px;padding-left: 16px; margin-right: 15px; background: url(../img/mselect/checkbox1.png) left center no-repeat;}
+.m-select-ck .m-select-item:hover{background-image: url(../img/mselect/checkbox2.png);color:#0080FE;}
+.m-select-ck .m-selected-item{background-image: url(../img/mselect/checkbox3.png);color:#0080FE;}
+.m-select-ck.m-select-disabled .m-select-item,.m-select-ck.m-select-disabled .m-select-item:hover{background-image: url(../img/mselect/checkbox-dis.png);color: #1f2324;cursor: default;}

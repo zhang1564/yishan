@@ -1,0 +1,57 @@
+
+/*****首页*****/
+.index .banner{ width: 85%; margin: 0 auto; }
+.index .banner img{width: 100%;box-shadow: 0 0px 10px 0 rgba(255,74,87,0.20);-webkit-box-shadow: 0 0px 10px 0 rgba(255,74,87,0.20)}
+.index .a-function{width: 100%; padding: 2rem 0; display: flex; display: -webkit-flex;-webkit-justify-content: center;-webkit-align-items: center;justify-content: center;align-items: center;}
+.index .a-function a{flex: 1;-webkit-flex: 1; text-align: center; font-size: 1.4rem; line-height: 2rem; color: #372727;}
+.index .a-function a img{width: 46%; display: inline-block;}
+.index .weather{ padding:0.8rem 0 0.8rem 12%;font-size: 1.4rem; line-height: 1.8rem; background: url(../img/index/weather.jpg) 6% center  no-repeat; background-size: 4.26% auto;}
+.index .grade{ color: #999999;border: 1px solid #979797;border-radius: 3px; font-size: 1.4rem; padding: 0 0.5rem; margin-left: 1rem; }
+.index .insurance{padding: 0.5rem 0 1rem 0;}
+.index .insurance h2{ padding:0.5rem 0 0.5rem 12%; font-size: 1.7rem; font-weight: bold;color: #312C2C; background: url(../img/index/insurance.jpg) 6% center  no-repeat; background-size: 4.26% auto;}
+.index .insurance > ul{ display: flex; display: -webkit-flex;-webkit-align-items: center;align-items: center;}
+.index .insurance > ul > li{ text-align: center; font-size: 1.4rem; line-height: 2rem;}
+.index .insurance > ul > li:nth-child(1){width: 46%; margin-left: 6%;}
+.index .insurance > ul > li:nth-child(2){width: 17.5%; margin-left: 2.5%;}
+.index .insurance > ul > li:nth-child(3){width: 21.5%; margin-left: 2.5%;}
+.index .insurance > ul > li:nth-child(2) a,.insurance > ul > li:nth-child(3) a{ width: 100%; }
+.index .search-insur{height: 3rem; width: 100%;border:#a0a0a0 1px solid;border-radius: 4px;}
+.index .insur-a-list{ line-height: 3rem; display: inline-block; font-size: 1.4rem; width: 28%;text-align: center; }
+.index .insur-a-list img{ width: 22%; vertical-align: middle; }
+.index .insur-search-input{ height: 3rem;border:0; vertical-align: top; outline: none; font-size: 1.4rem; width: 72%;border-radius: 8px; }
+.index .insur-search-input:-webkit-input-placeholder{color: #cccccc;}
+.index .activity > ul{padding-left: 6%;}
+.index .activity > ul >li{padding: 1rem 0; border-bottom:#D8D8D8 1px solid; display: flex; display: -webkit-flex;-webkit-align-items: center;align-items: center; }
+.index .active-left{ width: 18%; }
+.index .active-left img{width: 100%; border-radius: 4px;box-shadow: 0 0px 10px 0 rgba(255,74,87,0.20);-webkit-box-shadow: 0 0px 10px 0 rgba(255,74,87,0.20);}
+.index .active-right{ width: 72%; padding: 0 5%; font-size: 1.4rem;color: #999090; line-height: 1.8rem;}
+.index .active-right h3{ font-size: 1.6rem; font-weight: bold;color: #312C2C; margin-bottom: 0.2rem;}
+.index .active-right .hot{ display: inline-block;color: #FF5F5F;font-size: 1.2rem;border: 1px solid #FF5F5F;border-radius: 3px; line-height: 1.4rem; padding: 0 0.3rem;margin-right: 0.5rem; }
+.index .distance{display: inline-block;background: url(../img/index/address-g.jpg) left center no-repeat; background-size: auto 80%; padding-left: 1.4rem;}
+.index .load-more{ color: #cec3c3; width: 42%; margin: 2rem auto; border-top: #d8d8d8 2px solid; }
+.index .load-more-tips{ display: inline-block; background-color: #fff; padding: 0 0.2rem; position: relative; line-height: 2rem; top: -1.2rem;}
+.index .load-more-tips small{ line-height: 2rem; vertical-align: middle;}
+.index .index-top{margin: 1.5rem 4% 1rem 4%;}
+.index .index-top .my-address{ color: #372727; display: inline-block; padding-left: 1.5rem; background: url(../img/index/address.jpg) left center no-repeat; background-size: auto 100%; line-height: 1.5rem; font-size: 1.7rem; font-weight: bold;  }
+.index .index-top .my-email{display: inline-block; vertical-align: bottom;}
+.index .index-top .email{ display: inline-block; height: 1.5rem;}
+.index .index-top .email img{height: 100%;}
+.index .index-top .propmt{top: -0.5rem; background-color: #ff1400; width: 0.5rem; height: 0.5rem; border-radius: 0.5rem; right:-0.5rem;}
+/****我也加油***/
+
+.gogas .new-address{ padding:1.5rem 6% 1.5rem 12%;font-size: 1.7rem; color: #000; font-weight: bold; line-height: 1.8rem; background: url(../img/index/address-g.jpg) 6% center  no-repeat; background-size: 4.26% auto;}
+.gogas .gas-station-choo{background: #F7F7F7;padding: 1.2rem 0; text-align: center;font-size: 1.5rem;}
+.gogas .gas-station-choo a{ display: inline-block; background-color: #f7f7f7; width: 32%; height: 3rem; line-height: 3rem; text-align: center;color: #FF3636;border: #F23F3F 1px solid;}
+.gogas .gas-station-choo a.active{background: #F23F3F; color: #fff;}
+.gogas .gas-station-choo a:nth-child(1){border-bottom-left-radius: 4px;border-top-left-radius: 4px;}
+.gogas .gas-station-choo a:nth-child(2){border-bottom-right-radius: 4px;border-top-right-radius: 4px;}
+.gogas .activity > ul{padding-left: 6%;}
+.gogas .activity > ul >li{padding: 1.5rem 0; border-bottom:#ececec 1px solid; display: flex; display: -webkit-flex;-webkit-align-items: center;align-items: center; }
+.gogas .active-left{ width: 11%; }
+.gogas .active-left img{width: 100%; border-radius: 50%;border:#979797 1px solid;}
+.gogas .active-right{ width: 79%; padding: 0 5%; font-size: 1.4rem;color: #999090; line-height: 1.8rem;}
+.gogas .active-right h3{ font-size: 1.7rem; font-weight: bold;color: #312C2C; margin-bottom: 0.2rem;}
+.gogas .distance{display: inline-block;background: url(../img/index/address-g.jpg) left center no-repeat; background-size: auto 80%; padding-left: 1.4rem;}
+.gogas .load-more{ font-size: 1.4rem;color: #999999;padding: 2rem; }
+
+
