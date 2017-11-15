@@ -33,8 +33,8 @@
 .index .load-more-tips small{ width: 0.5rem;height: 0.5rem;border-radius: 0.5rem;background-color: #cec3c3; display: inline-block; line-height: 2rem; vertical-align: middle;}
 .index .index-top{margin: 2rem 4% 2rem 4%;}
 .index .index-top .my-address{ color: #372727; display: inline-block; height: 1.7rem; line-height: 1.7rem; font-size: 1.7rem; font-weight: bold;  }
-.index .index-top .my-address img{ height: 100%; display: inline-block; }
-.index .index-top .my-address .add-name{margin-left: 0.5rem; display: inline-block; vertical-align: bottom; }
+.index .index-top .my-address img{ height: 100%; display: inline-block; vertical-align: middle; }
+.index .index-top .my-address .add-name{margin-left: 0.5rem; display: inline-block; vertical-align: bottom; height: 1.7rem; line-height: 1.7rem; }
 .index .index-top .my-email{display: inline-block; vertical-align: bottom;}
 .index .index-top .email{ display: inline-block; height: 1.5rem;}
 .index .index-top .email img{height: 100%;}
