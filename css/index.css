@@ -30,7 +30,7 @@
 .index .distance{display: inline-block;background: url(../img/index/address-g.jpg) left center no-repeat; background-size: auto 80%; padding-left: 1.4rem;}
 .index .load-more{ color: #cec3c3; width: 42%; margin: 2rem auto; border-top: #d8d8d8 2px solid; }
 .index .load-more-tips{ display: inline-block; background-color: #fff; padding: 0 0.2rem; position: relative; line-height: 2rem; top: -1.2rem;}
-.index .load-more-tips small{ line-height: 2rem; vertical-align: middle;}
+.index .load-more-tips small{ width: 0.5rem;height: 0.5rem;border-radius: 0.5rem;background-color: #cec3c3; display: inline-block; line-height: 2rem; vertical-align: middle;}
 .index .index-top{margin: 2rem 4% 2rem 4%;}
 .index .index-top .my-address{ color: #372727; display: inline-block; padding-left: 1.5rem; background: url(../img/index/address.jpg) left top no-repeat; background-size: auto 100%; line-height: 1.5rem; font-size: 1.7rem; font-weight: bold;  }
 .index .index-top .my-email{display: inline-block; vertical-align: bottom;}
