@@ -20,7 +20,6 @@
 .index .insur-a-list img{ width: 22%; vertical-align: middle; }
 .index .insur-search-input{ height: 3rem;border:0; vertical-align: top; outline: none; font-size: 1.4rem; width: 72%;border-radius: 8px; }
 .index .insur-search-input:-webkit-input-placeholder{color: #cccccc;}
-.index .activity{background-color: #fff;}
 .index .activity > ul{padding-left: 6%;}
 .index .activity > ul >li{padding: 1rem 0; border-bottom:#D8D8D8 1px solid; display: flex; display: -webkit-flex;-webkit-align-items: center;align-items: center; }
 .index .active-left{ width: 18%; }
