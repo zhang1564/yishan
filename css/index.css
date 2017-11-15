@@ -50,7 +50,7 @@
 .gogas .active-left{ width: 11%; }
 .gogas .active-left img{width: 100%; border-radius: 50%;border:#979797 1px solid;}
 .gogas .active-right{ width: 79%; padding: 0 5%; font-size: 1.4rem;color: #999090; line-height: 1.8rem;}
-.gogas .active-right h3{ font-size: 1.7rem; font-weight: bold;color: #312C2C; margin-bottom: 0.2rem;}
+.gogas .active-right h3{ font-size: 1.7rem; font-weight: bold;color: #312C2C; margin-bottom: 0.5rem;}
 .gogas .distance{display: inline-block;background: url(../img/index/address-g.jpg) left center no-repeat; background-size: auto 80%; padding-left: 1.4rem;}
 .gogas .load-more{ font-size: 1.4rem;color: #999999;padding: 2rem; }
 
