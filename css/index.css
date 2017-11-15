@@ -32,7 +32,7 @@
 .index .load-more-tips{ display: inline-block; background-color: #fff; padding: 0 0.2rem; position: relative; line-height: 2rem; top: -1.2rem;}
 .index .load-more-tips small{ line-height: 2rem; vertical-align: middle;}
 .index .index-top{margin: 2rem 4% 2rem 4%;}
-.index .index-top .my-address{ color: #372727; display: inline-block; padding-left: 1.5rem; background: url(../img/index/address.jpg) left center no-repeat; background-size: auto 100%; line-height: 1.5rem; font-size: 1.7rem; font-weight: bold;  }
+.index .index-top .my-address{ color: #372727; display: inline-block; padding-left: 1.5rem; background: url(../img/index/address.jpg) left top no-repeat; background-size: auto 100%; line-height: 1.5rem; font-size: 1.7rem; font-weight: bold;  }
 .index .index-top .my-email{display: inline-block; vertical-align: bottom;}
 .index .index-top .email{ display: inline-block; height: 1.5rem;}
 .index .index-top .email img{height: 100%;}
