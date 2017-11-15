@@ -16,12 +16,12 @@
 .index .insurance > ul > li:nth-child(3){width: 21.5%; margin-left: 2.5%;}
 .index .insurance > ul > li:nth-child(2) a,.insurance > ul > li:nth-child(3) a{ width: 100%; }
 .index .search-insur{height: 3rem; width: 100%;border:#a0a0a0 1px solid;border-radius: 4px;}
-.index .insur-a-list{ line-height: 3rem; display: inline-block; font-size: 1.4rem; width: 28%;text-align: center; }
+.index .insur-a-list{ line-height: 3rem; display: inline-block; font-size: 1.4rem; width: 28%;text-align: center; color: #312C2C; }
 .index .insur-a-list img{ width: 22%; vertical-align: middle; }
 .index .insur-search-input{ height: 3rem;border:0; vertical-align: top; outline: none; font-size: 1.4rem; width: 72%;border-radius: 8px; }
 .index .insur-search-input:-webkit-input-placeholder{color: #cccccc;}
 .index .activity > ul{padding-left: 6%;}
-.index .activity > ul >li{padding: 1rem 0; border-bottom:#D8D8D8 1px solid; display: flex; display: -webkit-flex;-webkit-align-items: center;align-items: center; }
+.index .activity > ul >li{padding: 1.2rem 0; border-bottom:#D8D8D8 1px solid; display: flex; display: -webkit-flex;-webkit-align-items: center;align-items: center; }
 .index .active-left{ width: 18%; }
 .index .active-left img{width: 100%; border-radius: 4px;box-shadow: 0 0px 10px 0 rgba(255,74,87,0.20);-webkit-box-shadow: 0 0px 10px 0 rgba(255,74,87,0.20);}
 .index .active-right{ width: 72%; padding: 0 5%; font-size: 1.4rem;color: #999090; line-height: 1.8rem;}
