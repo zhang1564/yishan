@@ -6,7 +6,7 @@
 .index .a-function a{flex: 1;-webkit-flex: 1; text-align: center; font-size: 1.4rem; line-height: 2rem; color: #372727;}
 .index .a-function a img{width: 46%; display: inline-block;}
 .index .weather{ padding:0.8rem 0 0.8rem 12%;font-size: 1.4rem; line-height: 1.8rem; background: url(../img/index/weather.jpg) 6% center  no-repeat; background-size: 4.26% auto;}
-.index .grade{ color: #999999;border: 1px solid #979797;border-radius: 3px; font-size: 1.2rem; padding: 0 0.5rem; margin-left: 1rem; line-height: 1rem; }
+.index .grade{ color: #999999;border: 1px solid #979797;border-radius: 3px; font-size: 1.2rem; padding: 0 0.5rem; margin-left: 1rem; line-height: 1.1rem; }
 .index .insurance{padding: 0.5rem 0 1rem 0;}
 .index .insurance h2{ padding:0.5rem 0 0.5rem 12%; font-size: 1.7rem; font-weight: bold;color: #312C2C; background: url(../img/index/insurance.jpg) 6% center  no-repeat; background-size: 4.26% auto;}
 .index .insurance > ul{ display: flex; display: -webkit-flex;-webkit-align-items: center;align-items: center;}
@@ -34,6 +34,7 @@
 .index .index-top{margin: 2rem 4% 2rem 4%;}
 .index .index-top .my-address{ color: #372727; display: inline-block; height: 1.7rem; line-height: 1.7rem; font-size: 1.7rem; font-weight: bold;  }
 .index .index-top .my-address img{ height: 100%; vertical-align: top; display: inline-block;}
+.index .index-top .my-address .add-name{display: inline-block; vertical-align: middle; margin-left: 0.4rem;}
 .index .index-top .my-email{display: inline-block; vertical-align: bottom;}
 .index .index-top .email{ display: inline-block; height: 1.5rem;}
 .index .index-top .email img{height: 100%;}
